@@ -1,0 +1,9 @@
+__pycache__/
+.ruff_cache/
+release/
+exo/RW1_EDIT.EXE
+# the original program and what Ghidra makes of it
+re/RW1_EDIT.EXE
+re/ghidra_proj/
+re/out/
+re/res/
